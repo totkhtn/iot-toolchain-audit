@@ -1,0 +1,6 @@
+ket_qua/
+release_assets/
+out/
+logs/
+__pycache__/
+*.pyc

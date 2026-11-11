@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the paper."
+title: "Toolchain fingerprints, not malice: code, function-level ground truth and results"
+authors:
+  - family-names: Tran
+    given-names: Dac-Tot
+  - family-names: Tran
+    given-names: Anh-Tu
+  - family-names: Nguyen-An
+    given-names: Khuong
+  - family-names: Luong
+    given-names: The-Dung
+year: 2026
+license: MIT
+preferred-citation:
+  type: article
+  title: "Toolchain Fingerprints, Not Malice: Auditing and Correcting the Evidence of Heterogeneous Graph IoT Malware Detectors with Automatic Function Level Ground Truth"
+  authors:
+    - family-names: Tran
+      given-names: Dac-Tot
+    - family-names: Tran
+      given-names: Anh-Tu
+    - family-names: Nguyen-An
+      given-names: Khuong
+    - family-names: Luong
+      given-names: The-Dung
+  journal: "Journal of Science and Technology on Information Security"
+  year: 2026
+  status: submitted
