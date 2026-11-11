@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this repository, please cite the paper."
-title: "Toolchain fingerprints, not malice: code, function-level ground truth and results"
+title: "AUDITING EVIDENCE AND MITIGATING TOOLCHAIN BIAS IN HETEROGENEOUS GRAPH-BASED IOT MALWARE DETECTION"
 authors:
   - family-names: Tran
     given-names: Dac-Tot
