@@ -1,4 +1,4 @@
-# Toolchain fingerprints, not malice: auditing the evidence of heterogeneous graph IoT malware detectors
+# AUDITING EVIDENCE AND MITIGATING TOOLCHAIN BIAS IN HETEROGENEOUS GRAPH-BASED IOT MALWARE DETECTION
 
 Code, function-level ground truth, library hash database, splits and results for the paper
 
