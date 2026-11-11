@@ -2,8 +2,8 @@
 
 Code, function-level ground truth, library hash database, splits and results for the paper
 
-> D.-T. Tran, A.-T. Tran, K. Nguyen-An, T.-D. Luong. *Toolchain Fingerprints, Not Malice: Auditing and Correcting
-> the Evidence of Heterogeneous Graph IoT Malware Detectors with Automatic Function Level Ground Truth.* Submitted to
+> D.-T. Tran, A.-T. Tran, K. Nguyen-An, T.-D. Luong. *AUDITING EVIDENCE AND MITIGATING TOOLCHAIN BIAS IN HETEROGENEOUS GRAPH-BASED IOT MALWARE
+DETECTION.* Submitted to
 > the Journal of Science and Technology on Information Security (ISJ), 2026.
 
 The repository implements the four steps of the study: (1) role labelling of the functions of stripped ELF binaries from the symbol tables
