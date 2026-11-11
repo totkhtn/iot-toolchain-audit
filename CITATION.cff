@@ -14,7 +14,7 @@ year: 2026
 license: MIT
 preferred-citation:
   type: article
-  title: "Toolchain Fingerprints, Not Malice: Auditing and Correcting the Evidence of Heterogeneous Graph IoT Malware Detectors with Automatic Function Level Ground Truth"
+  title: "AUDITING EVIDENCE AND MITIGATING TOOLCHAIN BIAS IN HETEROGENEOUS GRAPH-BASED IOT MALWARE DETECTION"
   authors:
     - family-names: Tran
       given-names: Dac-Tot
