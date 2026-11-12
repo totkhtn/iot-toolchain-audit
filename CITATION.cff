@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the paper."
+title: "Auditing Evidence and Mitigating Toolchain Bias in Heterogeneous Graph-Based IoT Malware Detection: code, function-level ground truth and results"
+authors:
+  - family-names: Tran
+    given-names: Dac-Tot
+  - family-names: Tran
+    given-names: Anh-Tu
+  - family-names: Nguyen-An
+    given-names: Khuong
+  - family-names: Luong
+    given-names: The-Dung
+year: 2026
+license: MIT
+preferred-citation:
+  type: article
+  title: "Auditing Evidence and Mitigating Toolchain Bias in Heterogeneous Graph-Based IoT Malware Detection"
+  authors:
+    - family-names: Tran
+      given-names: Dac-Tot
+    - family-names: Tran
+      given-names: Anh-Tu
+    - family-names: Nguyen-An
+      given-names: Khuong
+    - family-names: Luong
+      given-names: The-Dung
+  journal: "Journal of Computer Science and Cybernetics"
+  issn: "1813-9663"
+  year: 2026
+  status: submitted

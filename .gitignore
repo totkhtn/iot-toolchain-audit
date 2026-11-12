@@ -1,0 +1,6 @@
+workdir/
+release_assets/
+out/
+logs/
+__pycache__/
+*.pyc
