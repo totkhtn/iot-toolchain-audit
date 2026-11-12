@@ -1,4 +1,0 @@
-The files in data/ and results/ and the release assets (SHA-256 manifests, labels, function-level ground truth,
-function hashes, the library hash database, splits, per-run audit outputs and aggregated results) are licensed under
-the Creative Commons Attribution 4.0 International licence (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
-Malware binaries and feature files are not distributed; files are identified by their SHA-256 hashes.

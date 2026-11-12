@@ -1,4 +1,0 @@
-# analysis and aggregation scripts (all commands of README.md "Reproducing")
-numpy
-# model training (hin_static_v15_libsym.py, hin_static_v15_libaware.py) additionally needs a CUDA GPU with
-# torch, torch_geometric, scikit-learn, lightgbm, pandas, scipy (versions as on Kaggle, October 2026)
