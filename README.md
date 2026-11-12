@@ -1,5 +1,7 @@
 # Auditing Evidence and Mitigating Toolchain Bias in Heterogeneous Graph-Based IoT Malware Detection
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24150593.svg)](https://doi.org/10.5281/zenodo.24150593)
+
 This repository contains the code, the function-level ground truth, the library hash database, the data splits and the
 results of the paper
 
@@ -54,7 +56,7 @@ order)[:16]`, followed by the number of 2020 ground-truth functions with that ha
 
 ```bash
 pip install -r requirements.txt
-# download the release assets (audit_per_file.zip, function_caches_*.zip) into release_assets/
+# download the release assets (audit_per_file.zip, function_caches_*.zip) from https://doi.org/10.5281/zenodo.24150593 into release_assets/
 python3 scripts/setup_workdir.py --assets release_assets
 
 # Step 3 (library hash database) and RQ2: accuracy and coverage
@@ -93,6 +95,8 @@ library-related parts of step 4 (library-aware training and post hoc filtering) 
 
 ## Release assets
 
+The four archives below are attached to the GitHub release and archived on Zenodo: [https://doi.org/10.5281/zenodo.24150593](https://doi.org/10.5281/zenodo.24150593).
+
 | Archive | Content |
 |---|---|
 | `audit_per_file.zip` | per-run audit output (`A_Q1_summary.csv`, `A_per_file.csv`, `SUMMARY_A.md`) of all 220 runs |
@@ -107,4 +111,4 @@ identified by their SHA-256 hashes.
 
 ## Citation
 
-See `CITATION.cff`.
+See `CITATION.cff`. Code, data and release assets: Zenodo, [https://doi.org/10.5281/zenodo.24150593](https://doi.org/10.5281/zenodo.24150593).

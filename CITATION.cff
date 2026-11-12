@@ -12,6 +12,8 @@ authors:
     given-names: The-Dung
 year: 2026
 license: MIT
+doi: "10.5281/zenodo.24150593"
+repository-code: "https://github.com/totkhtn/iot-toolchain-audit"
 preferred-citation:
   type: article
   title: "Auditing Evidence and Mitigating Toolchain Bias in Heterogeneous Graph-Based IoT Malware Detection"
